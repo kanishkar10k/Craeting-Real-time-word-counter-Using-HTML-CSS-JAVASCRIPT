@@ -1,0 +1,23 @@
+.box{
+    border: 4px solid darkmagenta;
+    background-color: pink;
+    width:600px;
+    margin-left: 300px;
+}
+input{
+    height: 100px;
+    width: 550px;
+    margin: 0px 20px;
+}
+#typ{
+    padding-right: 340px;
+}
+span{
+    color:palevioletred;
+}
+p{
+    padding-left: 20px;
+}
+h1{
+    padding-left: 20px;
+}
